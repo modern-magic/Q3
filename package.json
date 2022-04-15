@@ -1,0 +1,29 @@
+{
+  "name": "q3",
+  "version": "1.0.0",
+  "description": "This Project is WIP now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modern-magic/Q3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modern-magic/Q3/issues"
+  },
+  "homepage": "https://github.com/modern-magic/Q3#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "eslint-config-kagura": "^1.0.3",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
+  }
+}
